@@ -1,0 +1,4 @@
+apiVersion: v2
+name: postgres
+description: A Helm chart for deploying PostgreSQL as a StatefulSet
+version: 0.1.0
